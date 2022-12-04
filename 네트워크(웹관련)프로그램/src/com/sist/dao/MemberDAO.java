@@ -71,7 +71,6 @@ public class MemberDAO {
 			}
 			// 오라클 전송
 			// 결과값 받기
-			
 		}catch(Exception ex) 
 		{
 			ex.printStackTrace(); //오류 확인
